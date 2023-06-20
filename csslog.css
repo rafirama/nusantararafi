@@ -1,0 +1,21 @@
+.all {
+  color: white;
+  padding: 3rem;
+  padding-right: 250px;
+  padding-left: 250px;
+  background-color: #f7e6c4;
+  height: 600px;
+}
+
+.container {
+  background-color: #16271d;
+  color: #ffff;
+  font-family: Georgia, serif;
+}
+.judul {
+  color: #2b2b2b;
+  text-align: center;
+}
+.navbarl {
+  position: fixed;
+}
